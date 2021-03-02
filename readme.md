@@ -1,3 +1,4 @@
+# ChessAi
 ChessAi is a simple chess computer made using python.
 
 ![](https://img.shields.io/github/stars/antoKeinanen/chessAi) 
@@ -5,15 +6,15 @@ ChessAi is a simple chess computer made using python.
 ![](https://img.shields.io/github/release/antoKeinanen/chessAi) 
 ![](https://img.shields.io/github/issues/antoKeinanen/chessAi)
 
-##Installation
+## Installation
 ``git clone https://github.com/antoKeinanen/chessAi.git``
 
 If you don't have PIP you can install it [HERE](https://pip.pypa.io/en/stable/installing/).
 
 ``pip install -r requirements.txt``
 
-##Usage
-###If you want to play against ai
+## Usage
+### If you want to play against ai
 run ai.py file using ``python3 ai.py`` in commandline or shell.
 
 ```shell
@@ -44,17 +45,17 @@ Q = Queen
 K = King
 ```
 
-###If you want to watch my ai to play against stockfish the leading chess ai
+### If you want to watch my ai to play against stockfish the leading chess ai
 run main.py file using ``python3 main.py`` in commandline or shell.
 
-##Roadmap
+## Roadmap
 I still plan to add some chess variations like atomic-chess, crazy house and, chess 960.
 
-##Acknowledgment
+## Acknowledgment
 Special thanks to GitHub user [niklasf](https://github.com/niklasf) for letting me use his python-chess library.
 
-##Support/Ideas/Feedback
+## Support/Ideas/Feedback
 Leave me a message in discussions tab!
 
-##License
+## License
 [gpl-3.0](https://choosealicense.com/licenses/gpl-3.0/)
