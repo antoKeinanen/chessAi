@@ -9,6 +9,8 @@ ChessAi is a simple chess computer made using python.
 ## Installation
 ``git clone https://github.com/antoKeinanen/chessAi.git``
 
+``cd chessAi``
+
 If you don't have PIP you can install it [HERE](https://pip.pypa.io/en/stable/installing/).
 
 ``pip install -r requirements.txt``
