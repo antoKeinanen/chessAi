@@ -1,5 +1,3 @@
-##ChessAi
-
 ChessAi is a simple chess computer made using python.
 
 ![](https://img.shields.io/github/stars/antoKeinanen/chessAi) 
