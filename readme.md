@@ -7,6 +7,7 @@ ChessAi is a simple chess computer made using python.
 ![](https://img.shields.io/github/issues/antoKeinanen/chessAi)
 
 ## Installation
+Enter the following commands to in commandline or shell.
 ``git clone https://github.com/antoKeinanen/chessAi.git``
 
 ``cd chessAi``
